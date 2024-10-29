@@ -10,7 +10,7 @@ Use this version in production builds. It has the same api as Fireworks, but the
 
 ## Usage
 ```Clojure
-[io.github.paintparty/fireworks-stubs "0.8.0"]
+[io.github.paintparty/fireworks-stubs "0.8.1"]
 ```
 
 <br>
