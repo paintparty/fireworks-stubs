@@ -10,14 +10,14 @@ Use this version in production builds. It has the same api as Fireworks, but the
 
 ## Usage
 ```Clojure
-[io.github.paintparty/fireworks-stubs "0.10.4"]
+[io.github.paintparty/fireworks-stubs "0.11.0]
 ```
 
 <br>
 
 ## License
 
-Copyright © 2024 Jeremiah Coyle
+Copyright © 2024-2025 Jeremiah Coyle
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
