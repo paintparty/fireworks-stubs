@@ -1,4 +1,4 @@
-(defproject io.github.paintparty/fireworks-stubs "0.12.3"
+(defproject io.github.paintparty/fireworks-stubs "0.12.6"
   :description "Fireworks library for production builds"
   :url "https://github.com/paintparty/fireworks"
   :license {:name "EPL-2.0 OR GPL-2.0-or-later WITH Classpath-exception-2.0"
